@@ -1,0 +1,148 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+list-style: none;
+padding: 0;
+background-color: rgb(206, 126, 206);
+width: 90%;
+max-width: 1000px;
+margin:auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color:aliceblue;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu lu a:hover{
+    background-color: rgb(97, 97, 241);
+    padding: 20px;
+
+
+}
+.menu la a:hover{
+    background-color: rgb(51, 255, 0);
+    padding: 20px;
+}
+.menu le a:hover{
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+}
+
+.inicio{
+    background-color: rgb(97, 97, 241);
+}
+
+.h1{
+    color: red;
+}
+.entiendo {
+    color: rgb(52, 248, 3);
+    
+}
+
+.ent{
+    border-style: inset;
+    border-color: rgb(97, 97, 241);
+}
+.btn{
+    
+    background-color: rgb(0, 0, 255);
+    border-color: rgb(97, 97, 241);
+    border-style: inset;
+}
+
+.derrotarle{
+    font-size: x-large;
+    font-weight: 900;
+    color: black;
+}
+
+.tambien {
+    color: blue;
+}
+ 
+.quiero{
+    color: red;
+    font-weight: 900;
+    
+}
+
+.centrado{
+    background-color: rgb(97, 97, 241);
+    height: 30vh;
+    margin: 15%;
+
+    
+    justify-content: center;
+    
+}
+
+.quienes{
+    background-color: rgb(51, 255, 0);
+}
+
+.tabla{
+    
+    font-family:'Courier New', Courier, monospace;
+    background-color: yellow;  
+}
+
+.Edad{
+    font-weight: 100;  
+    color: red;
+    
+}
+.dad{
+    font-size: smaller;
+}
+.E{
+    font-size:larger;
+    font-weight: 1000; 
+}
+
+.div table{
+    margin:0 auto;
+}
+
+.borde{
+    border-bottom-color: red;
+    border-bottom-style: dashed;
+}
+
+.contacto{
+    background-color: rgb(255, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+ 
+.img{
+    float:right;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 70px;}
+
+.ben{
+    text-align:justify;
+}
+
+.img2{
+    float:left;
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+    padding: 70px;
+   }
+
+.hal{
+    text-align:justify;
+}
